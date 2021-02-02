@@ -1,19 +1,26 @@
 
-  <img align="center" alt="Hi there" width="82px" src="hacker.svg" /><span><h2>Namaste 🙏</h2></span>
-  
+  <p align="center">
+  <img align="center" alt="Hi there" width="82px" src="hacker.svg" />
+  <h2 align="center">🙏 Namaste 🙏</h2>
+  <p align="center">I'm a beginner, in search of new oppurtunities.</p>
+  <p align="center">Location: India<p>
+  </p>
 <br>
 
 
-I'm a beginner, in search of new oppurtunities.
 
-Location: **India**
 
 
 #### 🌟 Latest Project: [COVID-19 Tracker](https://github.com/swatikp99/covid19-tracker-IN)
 
 #### 🚧  Project in progress: [Todo Task Tracker](https://github.com/swatikp99/todo-task)
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatikp99&langs_count=10&layout=compact&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatikp99&show_icons=true&theme=midnight-purple)
 
 Follow me on
 <br>
