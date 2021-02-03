@@ -9,6 +9,9 @@
       <br>
       <p align="center">Follow me on</p>
       <p align="center">
+         <a href="https://www.linkedin.com/in/swatik1pattanayak/">
+             <img align="center" alt="Swatik Pattanayak | LinkedIn" width="22px" src="linkedin.svg" />
+         </a>
          <a href="https://twitter.com/swatikp99">
              <img align="center" alt=" Swatik Pattanayak | Twitter" width="22px" src="twitter.svg" />
          </a>
